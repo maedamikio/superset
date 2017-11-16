@@ -1,5 +1,5 @@
 # Superset
-This Superset works with one container
+This Superset works one container
 
 # Docker Hub
 This version is 0.20.6
