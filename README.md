@@ -8,7 +8,7 @@ You can run container from Docker Hub or Build Image.
 
 ## from Docker Hub
 
-This version is 0.20.6
+This version is 0.22.1
 
 ```
 $ docker run -d -p 8088:8088 --name superset maedamikio/superset
