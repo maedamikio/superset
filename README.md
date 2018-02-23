@@ -33,4 +33,4 @@ Password: admin
 
 # Authors
 
-* **MAEDA Mikio** - [Twitter](https://twitter.com/maeda_mikio)
+MAEDA Mikio - [Twitter](https://twitter.com/maeda_mikio)
